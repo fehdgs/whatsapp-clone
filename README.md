@@ -2,4 +2,5 @@
 
 Whatsapp clone using HTML and CSS
 
-![result](https://user-images.githubusercontent.com/87665631/155209556-5a36166f-7aca-455d-9c97-708dd014297c.png)
+
+![result](https://user-images.githubusercontent.com/87665631/155210503-ffbba35a-3914-4766-a073-101ab2916616.png)
